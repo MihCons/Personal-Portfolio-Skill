@@ -86,7 +86,6 @@ nav {
   box-shadow: 0 10px 22px rgba(20, 31, 32, 0.22);
   z-index: 100;
   border-radius: 0 0 15px 15px;
-  backdrop-filter: blur(6px);
 }
 
 nav .container {
